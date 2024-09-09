@@ -1,0 +1,15 @@
+.padre {
+    background-color: #fb7e7e;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+}
+.hijo {
+    background-color: #877efb;
+    width: 100px;
+    height: 200px;
+}
+
+.hijo2 {
+    background-color: #acfb7e;
+}
